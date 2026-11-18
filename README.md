@@ -8,6 +8,7 @@ It is intended to help a buyer, fabricator, installer and façade designer agree
 
 - Download or copy [`checklist.md`](checklist.md) into the project handover pack.
 - Use [`site-handover-checklist.md`](site-handover-checklist.md) when the packs move from delivery inspection into site storage.
+- Use [`first-panel-review-checklist.md`](first-panel-review-checklist.md) after the first ACP panel or first small review area is installed.
 - Use [`fabrication-flow.svg`](fabrication-flow.svg) in a project discussion or training handout.
 - Confirm every item against the approved drawing revision and the selected panel system.
 - Make and inspect a trial fold from the actual panel batch before releasing production.
@@ -28,7 +29,7 @@ The checklist covers:
 4. Cassette and fixing-detail checks
 5. Site handover and first-install inspection
 
-The companion handover checklist covers a later, distinct stage: preserving pack identity and visible-condition records between receiving and site storage. It is not a lifting plan, safety procedure or installation release.
+The companion handover checklist covers a later, distinct stage: preserving pack identity and visible-condition records between receiving and site storage. The first-panel module continues the record after the initial installed condition is available. Neither document is a lifting plan, safety procedure, engineering approval or installation certificate.
 
 ## Licence
 
